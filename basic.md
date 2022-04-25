@@ -6,6 +6,10 @@
 
 > [dynamic01.cc](./dynamic/dynamic01.cc)
 
+### 2. 1027. 最长等差数列
+
+> [dynamic02.cc](./dynamic/dynamic01.cc)
+
 ### 2. 
 
 
