@@ -10,8 +10,12 @@
 
 > [dynamic02.cc](./dynamic/dynamic01.cc)
 
-### 3. 
+### 2. 
+## 2. 单串问题，动态规划和其他算法结合
 
+### 1. 1055. 形成字符串的最短路径 
+
+> [dynamic03.cc](./dynamic/dynamic03.cc)
 
 # 2. 随机数
 
