@@ -3,6 +3,7 @@
 #include <unordered_map>
 #include <unordered_set>
 #include <stack>
+#include<algorithm>
 using namespace std;
 
 // template<typename T>
