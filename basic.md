@@ -26,6 +26,10 @@
 
 > [dynamic05](./dynamic/dynamic05.cc)
 
+### 2. 91. 解码方法
+
+> [dynamic06](./dynamic/dynamic06.cc)
+
 # 2. 随机数
 
 ## 1. 水塘抽样
