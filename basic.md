@@ -34,6 +34,10 @@
 
 > [dynamic07](./dynamic/dynamic07.cc)
 
+### 4. 32. 最长有效括号
+
+> [dynamic08](./dynamic/dynamic08.cc)
+
 # 2. 随机数
 
 ## 1. 水塘抽样
