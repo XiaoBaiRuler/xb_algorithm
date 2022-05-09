@@ -38,6 +38,10 @@
 
 > [dynamic08](./dynamic/dynamic08.cc)
 
+### 5.801. 使序列递增的最小交换次数
+
+> [dynamic09](./dynamic/dynamic09.cc)
+
 # 2. 随机数问题
 
 ## 1. 水塘抽样
