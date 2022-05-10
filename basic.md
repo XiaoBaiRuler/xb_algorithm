@@ -42,6 +42,10 @@
 
 > [dynamic09](./dynamic/dynamic09.cc)
 
+### 6. 871. 最低加油次数
+
+> [dynamic10](./dynamic/dynamic10.cc)
+
 # 2. 随机数问题
 
 ## 1. 水塘抽样
