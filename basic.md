@@ -46,6 +46,10 @@
 
 > [dynamic10](./dynamic/dynamic10.cc)
 
+### 7. 132. 分割回文串 II
+
+> [dynamic11](./dynamic/dynamic11.cc)
+
 # 2. 随机数问题
 
 ## 1. 水塘抽样
