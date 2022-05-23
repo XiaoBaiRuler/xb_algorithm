@@ -72,9 +72,15 @@
 
 ### 4. 975. 奇偶跳
 
-> [dynamic15.cc](./dynamic/dynamic15.cc)
+> [dynamic15](./dynamic/dynamic15.cc)
 >
 > `维度是奇偶能不能到达终点`
+
+### 5. 403. 青蛙过河
+
+> [dynamic16](./dynamic/dynamic16.cc)
+>
+> `维度是青蛙跳到该位置的跳跃长度`
 
 # 2. 随机数问题
 
