@@ -1,4 +1,3 @@
-
 #define PATH 2
 #if PATH == 1
 #include "E:\GitStore\xb_algorithm\common\common.h"
