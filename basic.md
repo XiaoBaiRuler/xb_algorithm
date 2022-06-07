@@ -251,3 +251,11 @@
 > [string05](./string/string05.cc)
 >
 > `注意所有可能情况，覆盖性测试`
+
+# 9. 二分法
+
+## 1. 二分法猜数类型
+
+### 1. 875. 爱吃香蕉的珂珂
+
+> [divide_conquer01](./divide_conquer/divide_conquer01.cc)
