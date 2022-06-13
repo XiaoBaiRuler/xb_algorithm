@@ -106,13 +106,19 @@
 
 > [dynamic19](./dynamic/dynamic19.cc)
 >
-> `i时间[i - n], state状态时卖出和买入， 由于是求总利润，可以忽略k次数[0 - n]`
+> `i时间[i - n], state状态是否持有， 由于是求总利润，可以忽略k次数[0 - n]`
 
 ### 2. 121. 买卖股票的最佳时机
 
 > [dynamic20](./dynamic/dynamic20.cc)
 >
-> `i时间[i - n], state状态时卖出和买入 只能进行一次交易`
+> `i时间[i - n], state状态是否持有 只能进行一次交易`
+
+### 3. 123. 买卖股票的最佳时机 III
+
+> [dynamic22](./dynamic/dynamic22.cc)
+>
+> `i时间[i - n], state状态是否持有 最多进行两次交易`
 
 # 2. 随机数问题
 
