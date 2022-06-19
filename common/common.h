@@ -6,7 +6,8 @@
 #include <queue>
 #include <map>
 #include <random>
-#include<algorithm>
+#include <algorithm>
+#include <climits>
 using namespace std;
 
 // template<typename T>
