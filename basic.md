@@ -500,3 +500,14 @@
 ### 2. 676. 实现一个魔法字典
 
 > [Tire02](./Tire/Tire02.cc)
+
+# 13. 前缀和
+
+## 1. 二维数组
+
+### 1. 304. 二维区域和检索 - 矩阵不可变
+
+> [prefix_sum01](./prefix_sum/prefix_sum01.cc)
+>
+> `(row2, col2) + (row1 - 1, col1 - 1) - (row2, col1 - 1) - (row1 - 1)(col2)`
+
