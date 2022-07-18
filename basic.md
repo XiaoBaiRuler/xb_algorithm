@@ -516,3 +516,9 @@
 ### 1. 325. 和等于 k 的最长子数组长度
 
 > [prefix_sum02](./prefix_sum/prefix_sum02.cc)
+
+### 2. 525. 连续数组
+
+> [prefix_sum03](./prefix_sum/prefix_sum03.cc)
+>
+> `把0变-1，那么就是求和为0的最长数组了`
