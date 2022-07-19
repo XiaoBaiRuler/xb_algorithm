@@ -522,3 +522,9 @@
 > [prefix_sum03](./prefix_sum/prefix_sum03.cc)
 >
 > `把0变-1，那么就是求和为0的最长数组了`
+
+### 3. 1371. 每个元音包含偶数次的最长子字符串
+
+> [prefix_sum04](./prefix_sum/prefix_sum04.cc)
+> 
+> `状态压缩 + 前缀异或和`
