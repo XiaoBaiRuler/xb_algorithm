@@ -528,3 +528,9 @@
 > [prefix_sum04](./prefix_sum/prefix_sum04.cc)
 > 
 > `状态压缩 + 前缀异或和`
+
+### 4. 560. 和为 K 的子数组
+
+> [prefix_sum05](./prefix_sum/prefix_sum05.cc)
+> 
+> `记录前缀和个数`
