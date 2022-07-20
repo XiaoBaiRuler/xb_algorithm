@@ -534,3 +534,9 @@
 > [prefix_sum05](./prefix_sum/prefix_sum05.cc)
 > 
 > `记录前缀和个数`
+
+### 5. 1248. 统计「优美子数组」
+
+> [prefix_sum06](./prefix_sum/prefix_sum06.cc)
+> 
+> `记录前面偶数个数 + 1`
