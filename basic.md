@@ -546,3 +546,7 @@
 > [prefix_sum06](./prefix_sum/prefix_sum06.cc)
 > 
 > `记录前面偶数个数 + 1`
+
+### 6. 523. 连续的子数组和
+
+> [prefix_sum07](./prefix_sum07.cc)
