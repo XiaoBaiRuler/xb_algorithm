@@ -517,6 +517,12 @@
 >
 > `(row2, col2) + (row1 - 1, col1 - 1) - (row2, col1 - 1) - (row1 - 1)(col2)`
 
+### 2. 238. 除自身以外数组的乘积
+
+> [prefix_sum09](./prefix_sum/prefix_sum09.cc)
+>
+> `前缀和 +  后缀和`
+
 ## 2. Hash构造前缀和
 
 ### 1. 325. 和等于 k 的最长子数组长度
