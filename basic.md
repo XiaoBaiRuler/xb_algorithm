@@ -550,3 +550,7 @@
 ### 6. 523. 连续的子数组和
 
 > [prefix_sum07](./prefix_sum07.cc)
+
+### 7. 974. 和可被 K 整除的子数组
+
+> [prefix_sum08](./prefix_sum/prefix_sum08.cc)
