@@ -570,3 +570,7 @@
 ### 7. 974. 和可被 K 整除的子数组
 
 > [prefix_sum08](./prefix_sum/prefix_sum08.cc)
+
+### 8. 1477. 找两个和为目标值且不重叠的子数组
+
+> [prefix_sum11](./prefix_sum/prefix_sum11.cc)
