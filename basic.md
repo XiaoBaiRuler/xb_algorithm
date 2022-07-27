@@ -543,6 +543,10 @@
 
 > [prefix_sum13](./prefix_sum/prefix_sum13.cc)
 
+### 6. 152. 乘积最大子数组
+
+> [prefix_sum14](./prefix_sum/prefix_sum14.cc)
+
 ## 2. Hash构造前缀和/积
 
 ### 1. 325. 和等于 k 的最长子数组长度
