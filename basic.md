@@ -547,6 +547,10 @@
 
 > [prefix_sum14](./prefix_sum/prefix_sum14.cc)
 
+### 7. 1352. 最后 K 个数的乘积
+
+> [prefix_sum15](./prefix_sum/prefix_sum15.cc)
+
 ## 2. Hash构造前缀和/积
 
 ### 1. 325. 和等于 k 的最长子数组长度
