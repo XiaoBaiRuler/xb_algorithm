@@ -555,6 +555,10 @@
 
 > [prefix_sum16](./prefix_sum/prefix_sum16.cc)
 
+### 9. 1442. 形成两个异或相等数组的三元组数目
+
+> [prefix_sum17](./prefix_sum/prefix_sum17.cc)
+
 ## 2. Hash构造前缀和/积/异或
 
 ### 1. 325. 和等于 k 的最长子数组长度
