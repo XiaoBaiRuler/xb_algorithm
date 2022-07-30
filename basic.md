@@ -600,3 +600,9 @@
 ### 8. 1477. 找两个和为目标值且不重叠的子数组
 
 > [prefix_sum11](./prefix_sum/prefix_sum11.cc)
+
+## 3. 差分问题
+
+### 1. 370. 区间加法
+
+> [prefix_sum18](./prefix_sum/prefix_sum18.cc)
