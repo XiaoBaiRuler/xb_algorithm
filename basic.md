@@ -644,3 +644,9 @@
 > [queue01](./queue/queue01.cc)
 >
 > `计数法`
+
+# 16. 贪心
+
+## 1. 1147. 段式回文
+
+> [greedy01](./greedy/greedy01.cc)
