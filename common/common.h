@@ -9,6 +9,7 @@
 #include <algorithm>
 #include <climits>
 #include <set>
+#include "mystruct.h"
 using namespace std;
 
 // template<typename T>

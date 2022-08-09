@@ -1,10 +1,4 @@
 #include "..//common//common.h"
-struct TreeNode {
-    int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
-};
 /**
  * @brief 面试题 04.06. 后继者
  * https://leetcode.cn/problems/successor-lcci/

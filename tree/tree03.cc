@@ -1,11 +1,4 @@
 #include "..//common//common.h"
-struct TreeNode {
-    int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
-};
-
 /**
  * @brief 449. 序列化和反序列化二叉搜索树
  * https://leetcode.cn/problems/serialize-and-deserialize-bst/
