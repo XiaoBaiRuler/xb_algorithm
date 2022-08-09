@@ -1,9 +1,4 @@
-#define PATH 2
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 115. 不同的子序列
  * https://leetcode.cn/problems/distinct-subsequences/

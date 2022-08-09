@@ -1,9 +1,4 @@
-#define PATH 2
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 1477. 找两个和为目标值且不重叠的子数组
  * https://leetcode.cn/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/

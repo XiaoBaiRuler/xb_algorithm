@@ -1,4 +1,4 @@
-#include "E:\GitStore\xb_algorithm\common\common.h"
+#include "..//common//common.h"
 /**
  * @brief 368. 最大整除子集
  * 

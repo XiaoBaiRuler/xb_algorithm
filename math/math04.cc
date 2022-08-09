@@ -1,9 +1,4 @@
-#define PATH 2
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 478. 在圆内随机生成点
  * https://leetcode.cn/problems/generate-random-point-in-a-circle/

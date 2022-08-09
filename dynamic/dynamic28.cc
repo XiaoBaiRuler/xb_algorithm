@@ -1,9 +1,4 @@
-#define PATH 1
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 712. 两个字符串的最小ASCII删除和
  * https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings/

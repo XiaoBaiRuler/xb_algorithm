@@ -1,9 +1,4 @@
-#define PATH 1
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 931. 下降路径最小和
  * https://leetcode.cn/problems/minimum-falling-path-sum/

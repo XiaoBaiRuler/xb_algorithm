@@ -1,9 +1,4 @@
-#define PATH 1
-#if PATH == 2
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 面试题 01.05. 一次编辑
  * https://leetcode.cn/problems/one-away-lcci/

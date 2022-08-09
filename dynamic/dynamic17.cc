@@ -1,9 +1,4 @@
-#define PATH 1
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 1230. 抛掷硬币
  * https://leetcode.cn/problems/toss-strange-coins/

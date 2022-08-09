@@ -1,9 +1,4 @@
-#define PATH 2
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 363. 矩形区域不超过 K 的最大数值和
  * https://leetcode.cn/submissions/detail/291833852/

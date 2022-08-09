@@ -1,4 +1,4 @@
-#include "E:\GitStore\xb_algorithm\common\common.h"
+#include "..//common//common.h"
 /**
  * @brief 413. 等差数列划分
  * 

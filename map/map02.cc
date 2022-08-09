@@ -1,9 +1,4 @@
-#define PATH 3
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 433. 最小基因变化
  * https://leetcode-cn.com/problems/minimum-genetic-mutation/

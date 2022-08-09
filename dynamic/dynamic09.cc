@@ -1,9 +1,4 @@
-#define PATH 2
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 801. 使序列递增的最小交换次数
  * https://leetcode.cn/problems/minimum-swaps-to-make-sequences-increasing/

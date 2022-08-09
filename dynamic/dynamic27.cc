@@ -1,9 +1,4 @@
-#define PATH 1
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 剑指 Offer II 091. 粉刷房子
  * https://leetcode.cn/problems/JEj789/

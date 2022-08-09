@@ -1,4 +1,4 @@
-#include "G:\algorithm\xb_algorithm\common\common.h"
+#include "..//common//common.h"
 /**
  * @brief 1055. 形成字符串的最短路径    
  * https://leetcode-cn.com/problems/shortest-way-to-form-string/

@@ -1,9 +1,4 @@
-#define PATH 2
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 1442. 形成两个异或相等数组的三元组数目
  * https://leetcode.cn/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/

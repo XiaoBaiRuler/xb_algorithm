@@ -1,4 +1,4 @@
-#include "E:\GitStore\xb_algorithm\common\common.h"
+#include "..//common//common.h"
 /**
  * @brief 1027. 最长等差数列
  * https://leetcode-cn.com/problems/longest-arithmetic-subsequence/

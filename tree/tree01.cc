@@ -1,4 +1,4 @@
-#include "G:\algorithm\xb_algorithm\common\common.h"
+#include "..//common//common.h"
 // Definition for a QuadTree node.
 class Node {
 public:

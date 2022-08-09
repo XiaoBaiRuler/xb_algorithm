@@ -1,9 +1,4 @@
-#define PATH 1
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 325. 和等于 k 的最长子数组长度
  * https://leetcode.cn/problems/maximum-size-subarray-sum-equals-k/

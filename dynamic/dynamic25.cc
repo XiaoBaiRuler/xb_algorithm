@@ -1,9 +1,4 @@
-#define PATH 2
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 714. 买卖股票的最佳时机含手续费
  * https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/

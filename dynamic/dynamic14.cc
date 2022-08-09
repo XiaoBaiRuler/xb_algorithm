@@ -1,10 +1,4 @@
-#define PATH 2
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
-
+#include "..//common//common.h"
 /**
  * @brief 265. 粉刷房子 II
  * https://leetcode.cn/problems/paint-house-ii/

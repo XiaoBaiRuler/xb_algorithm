@@ -1,9 +1,4 @@
-#define PATH 1
-#if PATH == 2
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 class Trie{
 public:
     bool flag = false;

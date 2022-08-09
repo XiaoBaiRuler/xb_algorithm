@@ -1,4 +1,4 @@
-#include "G:\algorithm\xb_algorithm\common\common.h"
+#include "..//common//common.h"
 /**
  * @brief 398. 随机数索引
  * https://leetcode-cn.com/problems/random-pick-index/

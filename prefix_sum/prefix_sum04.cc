@@ -1,9 +1,4 @@
-#define PATH 2
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 1371. 每个元音包含偶数次的最长子字符串
  * https://leetcode.cn/problems/find-the-longest-substring-containing-vowels-in-even-counts/

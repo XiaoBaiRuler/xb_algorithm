@@ -1,9 +1,4 @@
-#define PATH 2
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 309. 最佳买卖股票时机含冷冻期
  * https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/

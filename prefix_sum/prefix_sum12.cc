@@ -1,9 +1,4 @@
-#define PATH 2
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 1074. 元素和为目标值的子矩阵数量
  * https://leetcode.cn/problems/number-of-submatrices-that-sum-to-target/

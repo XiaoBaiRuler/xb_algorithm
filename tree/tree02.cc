@@ -1,4 +1,4 @@
-#include "E:\GitStore\xb_algorithm\common\common.h"
+#include "..//common//common.h"
 struct TreeNode {
      int val;
      TreeNode *left;

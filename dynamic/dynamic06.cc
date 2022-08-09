@@ -1,4 +1,4 @@
-#include "E:\GitStore\xb_algorithm\common\common.h"
+#include "..//common//common.h"
 /**
  * @brief 91. 解码方法
  * https://leetcode-cn.com/problems/decode-ways/

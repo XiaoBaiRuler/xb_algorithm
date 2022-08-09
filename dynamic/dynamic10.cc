@@ -1,10 +1,4 @@
-#define PATH 2
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
-
+#include "..//common//common.h"
 /**
  * @brief 871. 最低加油次数
  * https://leetcode.cn/problems/minimum-number-of-refueling-stops/

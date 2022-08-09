@@ -1,9 +1,4 @@
-#define PATH 1
-#if PATH == 2
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 467. 环绕字符串中唯一的子字符串
  * https://leetcode.cn/problems/unique-substrings-in-wraparound-string/

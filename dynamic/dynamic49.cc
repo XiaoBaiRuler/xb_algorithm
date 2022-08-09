@@ -1,9 +1,4 @@
-#define PATH 2
-#if PATH == 1
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 int longestCommonSubsequence(string text1, string text2);
 /**
  * @brief 1312. 让字符串成为回文串的最少插入次数

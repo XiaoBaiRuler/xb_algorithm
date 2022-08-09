@@ -1,9 +1,4 @@
-#define PATH 2
-#if PATH == 2
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 890. 查找和替换模式
  * https://leetcode.cn/problems/find-and-replace-pattern/

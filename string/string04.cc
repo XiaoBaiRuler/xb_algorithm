@@ -1,9 +1,4 @@
-#define PATH 2
-#if PATH == 2
-#include "E:\GitStore\xb_algorithm\common\common.h"
-#else
-#include "G:\algorithm\xb_algorithm\common\common.h"
-#endif
+#include "..//common//common.h"
 /**
  * @brief 1021. 删除最外层的括号
  * https://leetcode.cn/problems/remove-outermost-parentheses/
