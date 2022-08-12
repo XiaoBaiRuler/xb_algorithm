@@ -485,6 +485,12 @@
 
 > [hash01](./hash/hash01.cc)
 
+## 2. unordered_map
+
+### 1. 1282. 用户分组
+
+> [hash02](./hash/hash02.cc)
+
 # 8. 字符串类问题
 
 ## 1. 比对类逻辑题目
