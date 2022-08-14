@@ -633,6 +633,12 @@
 
 > [prefix_sum17](./prefix_sum/prefix_sum17.cc)
 
+### 10. 1422. 分割字符串的最大得分
+
+> [prefix_sum19](./prefix_sum/prefix_sum19.cc)
+>
+> `前缀和 +  后缀和`
+
 ## 2. Hash构造前缀和/积/异或
 
 ### 1. 325. 和等于 k 的最长子数组长度
