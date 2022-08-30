@@ -611,13 +611,17 @@
 
 > [string07](./string/string07.cc)
 
-# 9. 二分法
+# 9. 分治思想
 
-## 1. 二分法猜数类型
+## 1. 二分查找
 
 ### 1. 875. 爱吃香蕉的珂珂
 
-> [divide_conquer01](./divide_conquer/divide_conquer01.cc)
+> [binary_search02](./binary_search/binary_search02.cc)
+
+### 2. 69. x 的平方根
+
+> [binary_search01](./binary_search/binary_search01.cc)
 
 # 10. 排序
 
