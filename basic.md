@@ -623,6 +623,10 @@
 
 > [binary_search01](./binary_search/binary_search01.cc)
 
+### 3. 374. 猜数字大小
+
+> [binary_search03](./binary_search/binary_search03.cc)
+
 # 10. 排序
 
 ## 1. 桶排序
