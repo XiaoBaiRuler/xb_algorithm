@@ -627,6 +627,10 @@
 
 > [binary_search03](./binary_search/binary_search03.cc)
 
+### 4. 33. 搜索旋转排序数组
+
+> [binary_search04](./binary_search/binary_search04.cc)
+
 # 10. 排序
 
 ## 1. 桶排序
