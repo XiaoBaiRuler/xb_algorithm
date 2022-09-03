@@ -635,6 +635,10 @@
 
 > [binary_search05](./binary_search/binary_search05.cc)
 
+### 6. 162. 寻找峰值
+
+> [binary_search06](./binary_search/binary_search06.cc)
+
 # 10. 排序
 
 ## 1. 桶排序
