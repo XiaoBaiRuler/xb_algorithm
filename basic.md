@@ -631,6 +631,10 @@
 
 > [binary_search04](./binary_search/binary_search04.cc)
 
+### 5. 278. 第一个错误的版本
+
+> [binary_search05](./binary_search/binary_search05.cc)
+
 # 10. 排序
 
 ## 1. 桶排序
