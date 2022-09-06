@@ -643,6 +643,10 @@
 
 > [binary_search07](./binary_search/binary_search07.cc)
 
+### 8. 34. 在排序数组中查找元素的第一个和最后一个位置
+
+> [binary_search08](./binary_search/binary_search08.cc)
+
 # 10. 排序
 
 ## 1. 桶排序
