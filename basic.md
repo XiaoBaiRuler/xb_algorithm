@@ -12,7 +12,7 @@
 
 ## 2. 单串问题:动态规划和其他算法结合
 
-### 1. 1055. 形成字符串的最短路径 
+### 1. 1055. 形成字符串的最短路径
 
 > [dynamic03.cc](./dynamic/dynamic03.cc)
 
@@ -152,19 +152,19 @@
 
 > [dynamic23](./dynamic/dynamic23.cc)
 >
-> `i时间[i - n], state状态是否持有 最多进行k次交易` 
+> `i时间[i - n], state状态是否持有 最多进行k次交易`
 
 ### 5. 309. 最佳买卖股票时机含冷冻期
 
 > [dynamic24](./dynamic/dynamic24.cc)
 >
-> `i时间[i - n], state状态是否持有 注意买入的时机` 
+> `i时间[i - n], state状态是否持有 注意买入的时机`
 
 ### 6. 714. 买卖股票的最佳时机含手续费
 
 > [dynamic25](./dynamic/dynamic25.cc)
 >
-> `i时间[i - n], state状态是否持有 注意卖出时收费` 
+> `i时间[i - n], state状态是否持有 注意卖出时收费`
 
 ## 6. 双串类问题
 
@@ -172,13 +172,13 @@
 
 > [dynamic26](./dynamic/dynamic26.cc)
 >
-> `两个字符串分别作为一条串` 
+> `两个字符串分别作为一条串`
 
 ### 2. 712. 两个字符串的最小ASCII删除和
 
 > [dynamic28](./dynamic/dynamic28.cc)
 >
-> `两个字符串分别作为一条串` 
+> `两个字符串分别作为一条串`
 >
 > `总和 - 最大公共部分之和(同1143. 最长公共子序列)`
 
@@ -186,7 +186,7 @@
 
 > [dynamic29](./dynamic/dynamic29.cc)
 >
-> `两个数组分别作为一条串` 
+> `两个数组分别作为一条串`
 >
 > `子数组是要求连续的`
 
@@ -343,7 +343,7 @@
 
 > [dynamic52](./dynamic/dynamic52.cc)
 >
-> `设(l, r)为获得的最低分值` 
+> `设(l, r)为获得的最低分值`
 
 #### 5. 1000. 合并石头的最低成本
 
@@ -647,6 +647,10 @@
 
 > [binary_search08](./binary_search/binary_search08.cc)
 
+### 9. 658. 找到 K 个最接近的元素
+
+> [binary_search09](./binary_search/binary_search09.cc)
+
 # 10. 排序
 
 ## 1. 桶排序
@@ -756,19 +760,19 @@
 ### 3. 1371. 每个元音包含偶数次的最长子字符串
 
 > [prefix_sum04](./prefix_sum/prefix_sum04.cc)
-> 
+>
 > `状态压缩 + 前缀异或和`
 
 ### 4. 560. 和为 K 的子数组
 
 > [prefix_sum05](./prefix_sum/prefix_sum05.cc)
-> 
+>
 > `记录前缀和个数`
 
 ### 5. 1248. 统计「优美子数组」
 
 > [prefix_sum06](./prefix_sum/prefix_sum06.cc)
-> 
+>
 > `记录前面偶数个数 + 1`
 
 ### 6. 523. 连续的子数组和
@@ -812,4 +816,3 @@
 ### 1. 636. 函数的独占时间
 
 > [stack01](./stack/stack01.cc)
-

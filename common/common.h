@@ -12,13 +12,10 @@
 #include "mystruct.h"
 using namespace std;
 
-// template<typename T>
-// ostream& printvector(const T& beg, const T& end);
-
-// template<typename T>
-// ostream& printvector(const T& beg, const T& end){
-//     while (beg != end){
-//         cout << *beg ++ << " ";
-//     }
-//     return cout;
-// }
+template<typename T>
+ostream& operator <<(ostream& os, vector<T>& res){
+    for (auto &t : res){
+        cout << t << " ";
+    }
+    return cout;
+}
