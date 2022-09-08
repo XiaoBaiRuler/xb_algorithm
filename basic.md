@@ -651,6 +651,10 @@
 
 > [binary_search09](./binary_search/binary_search09.cc)
 
+### 10. 270. 最接近的二叉搜索树值
+
+> [binary_search10](./binary_search/binary_search10.cc)
+
 # 10. 排序
 
 ## 1. 桶排序
