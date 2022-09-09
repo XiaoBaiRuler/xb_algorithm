@@ -659,6 +659,12 @@
 
 > [binary_search11](./binary_search/binary_search11.cc)
 
+## 2. 二分治理
+
+### 1. 50. Pow(x, n)
+
+> [divide_conquer01](./divide_conquer/divide_conquer01.cc)
+
 # 10. 排序
 
 ## 1. 桶排序
