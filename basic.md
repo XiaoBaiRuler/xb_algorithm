@@ -655,6 +655,10 @@
 
 > [binary_search10](./binary_search/binary_search10.cc)
 
+### 11. 702. 搜索长度未知的有序数组
+
+> [binary_search11](./binary_search/binary_search11.cc)
+
 # 10. 排序
 
 ## 1. 桶排序
