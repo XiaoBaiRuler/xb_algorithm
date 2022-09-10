@@ -663,6 +663,10 @@
 
 > [binary_search12](./binary_search/binary_search12.cc)
 
+### 13. 744. 寻找比目标字母大的最小字母
+
+> [binary_search13](./binary_search/binary_search13.cc)
+
 ## 2. 二分治理
 
 ### 1. 50. Pow(x, n)
