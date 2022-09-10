@@ -659,6 +659,10 @@
 
 > [binary_search11](./binary_search/binary_search11.cc)
 
+### 12. 367. 有效的完全平方数
+
+> [binary_search12](./binary_search/binary_search12.cc)
+
 ## 2. 二分治理
 
 ### 1. 50. Pow(x, n)
