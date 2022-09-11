@@ -615,57 +615,65 @@
 
 ## 1. 二分查找
 
-### 1. 875. 爱吃香蕉的珂珂
+### 1. mid是靶值
 
-> [binary_search02](./binary_search/binary_search02.cc)
-
-### 2. 69. x 的平方根
+#### 1. 69. x 的平方根
 
 > [binary_search01](./binary_search/binary_search01.cc)
 
-### 3. 374. 猜数字大小
+#### 2. 374. 猜数字大小
 
 > [binary_search03](./binary_search/binary_search03.cc)
 
-### 4. 33. 搜索旋转排序数组
+#### 3. 33. 搜索旋转排序数组
 
 > [binary_search04](./binary_search/binary_search04.cc)
 
-### 5. 278. 第一个错误的版本
+#### 4. 278. 第一个错误的版本
 
 > [binary_search05](./binary_search/binary_search05.cc)
 
-### 6. 162. 寻找峰值
+#### 5.  162. 寻找峰值
 
 > [binary_search06](./binary_search/binary_search06.cc)
 
-### 7. 153. 寻找旋转排序数组中的最小值
+#### 6. 153. 寻找旋转排序数组中的最小值
 
 > [binary_search07](./binary_search/binary_search07.cc)
 
-### 8. 34. 在排序数组中查找元素的第一个和最后一个位置
-
-> [binary_search08](./binary_search/binary_search08.cc)
-
-### 9. 658. 找到 K 个最接近的元素
+#### 7. 658. 找到 K 个最接近的元素
 
 > [binary_search09](./binary_search/binary_search09.cc)
 
-### 10. 270. 最接近的二叉搜索树值
+#### 8. 270. 最接近的二叉搜索树值
 
 > [binary_search10](./binary_search/binary_search10.cc)
 
-### 11. 702. 搜索长度未知的有序数组
+#### 9. 702. 搜索长度未知的有序数组
 
 > [binary_search11](./binary_search/binary_search11.cc)
 
-### 12. 367. 有效的完全平方数
+#### 10. 367. 有效的完全平方数
 
 > [binary_search12](./binary_search/binary_search12.cc)
 
-### 13. 744. 寻找比目标字母大的最小字母
+#### 11. 744. 寻找比目标字母大的最小字母
 
 > [binary_search13](./binary_search/binary_search13.cc)
+
+### 2. 缩小靶值的范围获取值
+
+#### 1. 875. 爱吃香蕉的珂珂
+
+> [binary_search02](./binary_search/binary_search02.cc)
+
+#### 2. 34. 在排序数组中查找元素的第一个和最后一个位置
+
+> [binary_search08](./binary_search/binary_search08.cc)
+
+#### 3. 154. 寻找旋转排序数组中的最小值 II
+
+> [binary_search14](./binary_search/binary_search14.cc)
 
 ## 2. 二分治理
 
