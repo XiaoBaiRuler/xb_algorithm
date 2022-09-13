@@ -679,6 +679,10 @@
 
 > [binary_search14](./binary_search/binary_search14.cc)
 
+#### 4. 4. 寻找两个正序数组的中位数
+
+> [binary_search16](./binary_search/binary_search16.cc)
+
 ## 2. 二分治理
 
 ### 1. 50. Pow(x, n)
