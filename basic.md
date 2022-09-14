@@ -679,9 +679,12 @@
 
 > [binary_search14](./binary_search/binary_search14.cc)
 
-#### 4. 719. 找出第 K 小的数对距离
-
+#### 4. 4. 寻找两个正序数组的中位数
 > [binary_search16](./binary_search/binary_search16.cc)
+
+#### 5. 719. 找出第 K 小的数对距离
+
+> [binary_search17](./binary_search/binary_search17.cc)
 
 ## 2. 二分治理
 
