@@ -679,6 +679,10 @@
 
 > [binary_search14](./binary_search/binary_search14.cc)
 
+#### 4. 719. 找出第 K 小的数对距离
+
+> [binary_search16](./binary_search/binary_search16.cc)
+
 ## 2. 二分治理
 
 ### 1. 50. Pow(x, n)
