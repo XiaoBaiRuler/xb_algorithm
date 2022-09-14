@@ -686,6 +686,10 @@
 
 > [binary_search17](./binary_search/binary_search17.cc)
 
+#### 6. 410. 分割数组的最大值
+
+> [binary_search18](./binary_search/binary_search18.cc)
+
 ## 2. 二分治理
 
 ### 1. 50. Pow(x, n)
