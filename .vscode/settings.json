@@ -19,7 +19,8 @@
         "limits": "cpp",
         "utility": "cpp",
         "xiosbase": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "iosfwd": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
