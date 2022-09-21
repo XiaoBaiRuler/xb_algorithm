@@ -20,7 +20,9 @@
         "utility": "cpp",
         "xiosbase": "cpp",
         "iostream": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "xlocale": "cpp",
+        "xlocnum": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
