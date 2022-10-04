@@ -9,6 +9,8 @@
 #include <algorithm>
 #include <climits>
 #include <set>
+#include <stdlib.h>
+#include <random>
 #include "mystruct.h"
 using namespace std;
 

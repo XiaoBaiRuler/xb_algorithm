@@ -595,6 +595,10 @@
 
 > [hash01](./hash/hash01.cc)
 
+### 2. 535. TinyURL 的加密与解密
+
+> [hash03](./hash/hash03.cc)
+
 ## 2. unordered_map
 
 ### 1. 1282. 用户分组
