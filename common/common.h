@@ -11,6 +11,7 @@
 #include <set>
 #include <stdlib.h>
 #include <random>
+#include <list>
 #include "mystruct.h"
 using namespace std;
 
