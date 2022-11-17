@@ -455,6 +455,12 @@
 
 > [map07](./map/map07.cc)
 
+### 3. 剪枝
+
+#### 1. 47. 全排列 II
+
+> [map18](./map/map18.cc)
+
 ## 2. 宽度优先搜素
 
 ### 1. 433. 最小基因变化
@@ -900,6 +906,7 @@
 > [binary_search14](./binary_search/binary_search14.cc)
 
 #### 4. 4. 寻找两个正序数组的中位数
+
 > [binary_search16](./binary_search/binary_search16.cc)
 
 #### 5. 719. 找出第 K 小的数对距离
