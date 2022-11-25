@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.csv": "csv",
         "vector": "cpp",
         "unordered_set": "cpp",
         "ostream": "cpp",
@@ -22,7 +23,8 @@
         "iostream": "cpp",
         "iosfwd": "cpp",
         "xlocale": "cpp",
-        "xlocnum": "cpp"
+        "xlocnum": "cpp",
+        "new": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }

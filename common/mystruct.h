@@ -48,6 +48,25 @@ struct TreeNode {
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
 
+// 1.3. 邻接节点
+class AdjacencyNode {
+public:
+    int val;
+    std::vector<AdjacencyNode*> neighbors;
+    AdjacencyNode() {
+        val = 0;
+        neighbors = std::vector<AdjacencyNode*>();
+    }
+    AdjacencyNode(int _val) {
+        val = _val;
+        neighbors = std::vector<AdjacencyNode*>();
+    }
+    AdjacencyNode(int _val, std::vector<AdjacencyNode*> _neighbors) {
+        val = _val;
+        neighbors = _neighbors;
+    }
+};
+
 // 2. List
 
 // 2.1 单向链表节点
