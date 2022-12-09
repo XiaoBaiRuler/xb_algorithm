@@ -24,7 +24,9 @@
         "iosfwd": "cpp",
         "xlocale": "cpp",
         "xlocnum": "cpp",
-        "new": "cpp"
+        "new": "cpp",
+        "array": "cpp",
+        "string_view": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
